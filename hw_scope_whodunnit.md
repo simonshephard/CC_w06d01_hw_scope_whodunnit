@@ -28,9 +28,9 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:
+#### Result
 
-- Logs "The murderer is Miss Scarlet."
+- Logs: "The murderer is Miss Scarlet."
 
 #### Episode 2
 
@@ -50,7 +50,7 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:
+#### Result
 
 - Error on declareMurderer - attempt to reassign to const variable.
 
@@ -71,9 +71,10 @@ const secondVerdict = `The murderer is ${murderer}.`;
 console.log('Second Verdict: ', secondVerdict);
 ```
 
-Result:
--Logs "First Verdict: The murderer is Mrs. Peacock."
--Logs "Second Verdict: The murderer is Professor Plum."
+#### Result
+
+- Logs: "First Verdict: The murderer is Mrs. Peacock."
+- Logs: "Second Verdict: The murderer is Professor Plum."
 
 #### Episode 4
 
@@ -92,9 +93,10 @@ console.log(suspects);
 console.log(`Suspect three is ${suspectThree}.`);
 ```
 
-Result:
--Logs "The suspects are Miss Scarlet, Professor Plum, Colonel Mustard."
--Logs "Suspect three is Mrs. Peacock."
+#### Result
+
+- Logs: "The suspects are Miss Scarlet, Professor Plum, Colonel Mustard."
+- Logs: "Suspect three is Mrs. Peacock."
 
 #### Episode 5
 
@@ -118,8 +120,9 @@ const verdict = declareWeapon();
 console.log(verdict);
 ```
 
-Result:
--Logs "The weapon is the Revolver."
+#### Result
+
+- Logs: "The weapon is the Revolver."
 
 #### Episode 6
 
@@ -145,8 +148,9 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:
--Logs "The murderer is Mrs. White."
+#### Result
+
+- Logs: "The murderer is Mrs. White."
 
 #### Episode 7
 
@@ -178,8 +182,9 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:
--Logs "The murderer is Mr. Green."
+#### Result
+
+- Logs: "The murderer is Mr. Green."
 
 #### Episode 8
 
@@ -220,8 +225,9 @@ const verdict = declareWeapon();
 console.log(verdict);
 ```
 
-Result:
--Logs "The weapon is Candle Stick."
+#### Result
+
+- Logs: "The weapon is Candle Stick."
 
 #### Episode 9
 
@@ -240,9 +246,9 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:
+#### Result
 
--Logs "The murderer is Professor Plum."
+- Logs: "The murderer is Professor Plum."
 
 ### Extensions
 
@@ -300,3 +306,7 @@ revolvingAccused();
 const verdict = finallyRumbled();
 console.log(verdict);
 ```
+
+#### Result
+
+- ???
