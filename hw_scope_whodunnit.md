@@ -29,7 +29,8 @@ console.log(verdict);
 ```
 
 Result:
--Logs "The murderer is Miss Scarlet."
+
+- Logs "The murderer is Miss Scarlet."
 
 #### Episode 2
 
@@ -49,7 +50,9 @@ const verdict = declareMurderer();
 console.log(verdict);
 ```
 
-Result:  Error on declareMurderer - attempt to reassign to const variable.
+Result:
+
+- Error on declareMurderer - attempt to reassign to const variable.
 
 #### Episode 3
 
@@ -238,6 +241,7 @@ console.log(verdict);
 ```
 
 Result:
+
 -Logs "The murderer is Professor Plum."
 
 ### Extensions
